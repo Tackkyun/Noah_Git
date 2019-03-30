@@ -1,0 +1,28 @@
+코드 작업내역
+
+Source/Ark.h
+Source/Ark.cpp
+Source/Craft.h
+Source/Craft.cpp
+Source/GameObject.h
+Source/GameObject.cpp
+Source/Inventory.h
+Source/Inventory.cpp
+Source/Item.h
+Source/Item.cpp
+Source/MapObject.h
+Source/MapObject.cpp
+Source/NoahCharacter.h
+Source/NoahCharacter.cpp
+
+블루프린트 작업내역
+정리요약 링크 : https://drive.google.com/open?id=1ta3XeiyMbPKBeY11LXT3U9V66K3lVzWE5yW2DciytQQ
+
+Content/Ark/
+Content/Character/
+Content/Ark/DataTable/
+Content/Ark/Intro/
+Content/Ark/MainMenu/
+Content/Ark/MapObject/
+Content/Ark/Object/
+Content/Ark/UI/
